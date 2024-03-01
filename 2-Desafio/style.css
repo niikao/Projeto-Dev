@@ -1,0 +1,63 @@
+*{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+header{
+    margin: 44px 0 144px 76px;
+}
+section{
+    display: inline-block;
+    margin-left: 109px;
+}
+
+h1{
+    width: 582px;
+    height: 164px;
+    top: 342px;
+    left: 801px;
+    font-size: 62px;
+    line-height: 82px;
+    color: #161A49;
+}
+h2{
+    width: 493px;
+    height: 99px;
+    top: 553px;
+    left: 801px;
+    color: #515151;
+    opacity: 0,9;
+  
+}
+.perereco-main{
+    background-color: greenyellow;
+   
+    width: 124px;
+    height: 51px;
+    top: 32px;
+    left: 420px;
+    cursor: pointer;
+    border: none;
+    border-radius: 3px;
+}
+.calabreso{
+    width: 87px;
+    height: 20px;
+    top: 47px;
+    left: 42px;
+    color: #515151;
+    cursor: pointer;
+    margin-right: 40px;
+    align-items: center;
+}
+.link-main{
+    color:red;
+}
+.logo-image{
+    width: 595px;
+    height: 500px;
+    top: 246px;
+    left: 121px;
+    margin-left: 100px;
+} 
